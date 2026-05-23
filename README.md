@@ -42,9 +42,8 @@ This ensures that students can stay productive, manage their workload effectivel
 ## Installation & Setup 
 1. Clone the repository:
 ```
-git clone https://github.com/MallikarjunBaradenal/Study-planner-.git
+https://github.com/MallikarjunBaradenal/Study-planner-.git
 
-cd smart-study-planner
 ```
 2. Install dependencies:
 ```
