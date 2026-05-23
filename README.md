@@ -39,14 +39,10 @@ This ensures that students can stay productive, manage their workload effectivel
 
 - Modern UI – Clean, responsive, and professional UI using TailwindCSS.
 
-## Demo Video (YouTube)
-
-[![Smart Study Planner Demo](https://img.youtube.com/vi/hWhj_IWVNPU/0.jpg)](https://youtu.be/hWhj_IWVNPU)    
-
 ## Installation & Setup 
 1. Clone the repository:
 ```
-git clone https://github.com/keshavpotewar/Study-planner-.git
+git clone https://github.com/MallikarjunBaradenal/Study-planner-.git
 
 cd smart-study-planner
 ```
