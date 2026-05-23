@@ -2,7 +2,7 @@
 
 **Live Demo:** [https://study-planner-pi.vercel.app/](https://study-planner-pi.vercel.app/)  
 
-## Problem Statement
+# Problem Statement
 
 Students often face challenges in organizing study schedules and tracking academic tasks effectively.
 Without a structured plan, it becomes difficult to manage multiple subjects, deadlines, and daily study hours, which leads to stress, missed deadlines, and poor time management.
